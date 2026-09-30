@@ -1,0 +1,3 @@
+{
+  "extends": "@fourfold/config/tsconfig.base.json"
+}
